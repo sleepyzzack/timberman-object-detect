@@ -1,0 +1,6 @@
+leftobs
+timbermanleft
+rightobs
+timberman
+gameover
+w
